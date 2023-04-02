@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Create title for the page
-st.title("Assignment-4")
+st.title("Image Search")
 
 # Create two columns for the page
 cols1,cols2=st.columns(2)
